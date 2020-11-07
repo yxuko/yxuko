@@ -16,6 +16,3 @@ Pushed **{{ COMMITS }}** commits, made **{{ ISSUES }}** issues here and there, r
 
 - 💻 I’m currently learning Data Science :wink:;
 - 🌱 I’m currently working on something;
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
