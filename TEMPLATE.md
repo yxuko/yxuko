@@ -1,4 +1,4 @@
-## Hey there, I'm Yacine
+## Hey there, I'm Yacine 👋
 
 Currently an Engineering Student, Developer and Designer.
 
