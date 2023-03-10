@@ -14,5 +14,5 @@ Pushed **{{ COMMITS }}** commits, made **{{ ISSUES }}** issues here and there, r
 
 **What I am doing now**
 
-- 💻 I’m currently learning Data Science :wink:;
+- 💻 I’m currently learning DevOps :wink:;
 - 🌱 I’m currently working on something;
