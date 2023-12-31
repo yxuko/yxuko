@@ -4,7 +4,7 @@ Currently an Engineering Student, Developer and Designer.
 
 It has been **11** years since I joined Github.
 
-Pushed **407** commits, made **6** issues here and there, received **47** stars across **9** repositories and lastly contributed to **2** repositories.
+Pushed **405** commits, made **6** issues here and there, received **47** stars across **9** repositories and lastly contributed to **2** repositories.
 
 **Most languages I used**
 
